@@ -10,12 +10,10 @@ def banner():
     _ = "-" * 44
     ban = f"""
 {_}
-         _          __    _       
-        / _/  _  / / (_)__ ___
-       / /__/ _ \/ _ \/  '_// / -_|_-<
-       \___/\___/\___/_/\_\/_/\__/___/
-[   Author : Md Josif Khan                 ]
-[   Github : github.com/wh1teking          ]
+                        
+        
+[   Author : Free$tyle                 ]
+[   Github : github.com/Kooper77           ]
 [ Time now : {datetime.now()}    ]
 {_}
 """
